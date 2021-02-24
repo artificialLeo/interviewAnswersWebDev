@@ -1,20 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3ea9c10-6566-46d3-a9a2-aded7cb1b29e" name="Default Changelist" comment="" />
+    <list default="true" id="d3ea9c10-6566-46d3-a9a2-aded7cb1b29e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/components/App/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/components/App/Ru/WebStack/DomRu.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/components/App/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/setupTests.js" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ovPqpiPlKA1AEPfCzahkURHnVb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/components/App/Ru" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\WP\Desktop\interviewAnswersWebDev\app\src\components\App\Ru" />
+      <recent name="C:\Users\WP\Desktop\interviewAnswersWebDev\app\src\components\App" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WP\Desktop\interviewAnswersWebDev\app\src\components\App\Eng\JAVA" />
+      <recent name="C:\Users\WP\Desktop\interviewAnswersWebDev\app\src\components\App\Ru\JAVA" />
+      <recent name="C:\Users\WP\Desktop\interviewAnswersWebDev\app\src\components\App\Ru\SQL" />
+      <recent name="C:\Users\WP\Desktop\interviewAnswersWebDev\app\src\components\App\Eng\SQL" />
+      <recent name="C:\Users\WP\Desktop\interviewAnswersWebDev\app\src\components\App\Eng\MongoDB" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -39,6 +85,8 @@
       <option name="presentableId" value="Default" />
       <updated>1614164285395</updated>
       <workItem from="1614164300459" duration="108000" />
+      <workItem from="1614164526108" duration="223000" />
+      <workItem from="1614164871988" duration="26237000" />
     </task>
     <servers />
   </component>
@@ -50,7 +98,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
