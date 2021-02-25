@@ -2,27 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3ea9c10-6566-46d3-a9a2-aded7cb1b29e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/components/App/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/App/Ru/WebStack/DomRu.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/App/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/changeLanguage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/components/App/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/components/App/Ru/WebStack/DomRu.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/components/App/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/index.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -45,8 +42,11 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/components/App/Ru" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -55,11 +55,11 @@
       <recent name="C:\Users\WP\Desktop\interviewAnswersWebDev\app\src\components\App" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WP\Desktop\interviewAnswersWebDev\app\src\components\App\Eng\WebStack" />
+      <recent name="C:\Users\WP\Desktop\interviewAnswersWebDev\app\src\components\App\Ru\WebStack" />
       <recent name="C:\Users\WP\Desktop\interviewAnswersWebDev\app\src\components\App\Eng\JAVA" />
       <recent name="C:\Users\WP\Desktop\interviewAnswersWebDev\app\src\components\App\Ru\JAVA" />
       <recent name="C:\Users\WP\Desktop\interviewAnswersWebDev\app\src\components\App\Ru\SQL" />
-      <recent name="C:\Users\WP\Desktop\interviewAnswersWebDev\app\src\components\App\Eng\SQL" />
-      <recent name="C:\Users\WP\Desktop\interviewAnswersWebDev\app\src\components\App\Eng\MongoDB" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -86,8 +86,17 @@
       <updated>1614164285395</updated>
       <workItem from="1614164300459" duration="108000" />
       <workItem from="1614164526108" duration="223000" />
-      <workItem from="1614164871988" duration="26237000" />
+      <workItem from="1614164871988" duration="37982000" />
+      <workItem from="1614244455414" duration="23295000" />
     </task>
+    <task id="LOCAL-00001" summary="Made fundament">
+      <created>1614195634940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614195634940</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Made fundament" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made fundament" />
   </component>
 </project>
